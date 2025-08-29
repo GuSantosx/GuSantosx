@@ -4,15 +4,15 @@
 
 # Gustavo Barbosa
 
-Me chamo Hugo de Oliveira Nunes, nascido em 30/08/2005. Concluí o curso técnico em desenvolvimento de Sistema na ETEC de Assis-SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FEMA.
+Me chamo Gustavo Dos Santos Oliveira Barbosa, nascido em 07/11/2005. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FEMA.
 - 💻 Hoje trabalho como suporte ao usuário e redes
-- ☕ Estudando Java e Spring Boot
+- ☕ Estudando Java, Spring Boot e Python
 - 📚 Cursando Análise e Desenvolvimento de Sistemas - FEMA 2/3
 
 
 <p align="left">
     <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/hugo-de-oliveira-nunes-a56b8534a/">
+    <a href="https://www.linkedin.com/in/gustavo-dos-santos-oliveira-barbosa-b13076300/">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
@@ -20,7 +20,7 @@ Me chamo Hugo de Oliveira Nunes, nascido em 30/08/2005. Concluí o curso técnic
         />
     </a>
     <!-- Instagram -->
-    <a href="https://www.instagram.com/hugonunes05/">
+    <a href="https://www.instagram.com/barbosaguu_/">
         <img 
             alt="Instagram" 
             title="Me siga no Instagram" 
@@ -98,7 +98,7 @@ Me chamo Hugo de Oliveira Nunes, nascido em 30/08/2005. Concluí o curso técnic
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=HugoNunes05&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=GuSantosx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
